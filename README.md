@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Atividade de PM – Algoritmos (ADS)
 
 Repositório criado como parte da disciplina de **PM (Projeto Multidisciplinar)** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.  
