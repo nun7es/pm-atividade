@@ -72,17 +72,9 @@ print(max_lista([1, 5, 10, 25, 3]))  # Saída: 25
 ## 🧩 Autor
 
 **Kauan Nunes**
-📧 [Seu e-mail aqui]
+📧 [kauansouzan1412@gmail.com]
 💻 [GitHub: @nun7es](https://github.com/nun7es)
 
 ---
 
 > *“Entender algoritmos é entender como transformar lógica em eficiência.”*
-
-```
-
----
-
-Quer que eu personalize esse README com o **nome real da sua disciplina e professor**, se você me passar esses dois dados?  
-Assim já fica 100% pronto pra entregar e postar no GitHub.
-```
